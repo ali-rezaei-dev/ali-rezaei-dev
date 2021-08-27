@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ali-rezaei-dev
-- 👀 I’m interested in C#, Python and JavaScript
+- 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ali.rezaei.developer@gmail.com
 - 🐱‍👤 Currently I'm looking for a good front-end developer
